@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Javascript.
 - 🎵 Fun fact: I'm with a 3-octave vocal range.
 
+MY LATEST PROJECTS 👉
 https://jiasyuanchu.github.io/movie-list/
 
 <!--
