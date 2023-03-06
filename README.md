@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning Javascript.
 - 🎵 Fun fact: I'm with a 3-octave vocal range.
 
+https://jiasyuanchu.github.io/movie-list/
+
 <!--
 **jiasyuanchu/jiasyuanchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
