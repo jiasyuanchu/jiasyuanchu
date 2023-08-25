@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 💬 I believe in **"The purpose of writing code is to develop software, and software brings value to society."**
-
-- 🌱 I’m currently building projects with friends with React.js, Javascript, and express.
+- 👉 WELCOME TO VISIT MY PERSONAL WEBSITE: https://side-project-mngt3-mcl626fk2a-de.a.run.app/
+  
+- 🌱 I’m currently building projects with friends with React.js, Javascript, and Express.
 - 🎵 Fun fact: I'm with a 3-octave vocal range.
-
-- 👉 MY PERSONAL WEBSITE: https://side-project-mngt3-mcl626fk2a-de.a.run.app/
+- 💬 I believe in "The purpose of writing code is to develop software, and software brings value to society."
 
 
 <!--
