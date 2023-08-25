@@ -5,9 +5,7 @@
 - 🌱 I’m currently building projects with friends with React.js, Javascript, and express.
 - 🎵 Fun fact: I'm with a 3-octave vocal range.
 
-- 👉 MY LATEST PROJECTS
-  - ✨ https://jiasyuanchu.github.io/movie-list/
-  - ✨ https://jiasyuanchu.github.io/social-platform/
+- 👉 MY PERSONAL WEBSITE: https://side-project-mngt3-mcl626fk2a-de.a.run.app/
 
 
 <!--
