@@ -2,7 +2,7 @@
 
 - 💬 I believe in **"The purpose of writing code is to develop software, and software brings value to society."**
 
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently building projects with friends with React.js, Javascript, and express.
 - 🎵 Fun fact: I'm with a 3-octave vocal range.
 
 - 👉 MY LATEST PROJECTS
