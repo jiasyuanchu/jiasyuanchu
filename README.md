@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱About Me
-Backend technologies include:
+- 🌱 Backend technologies include:
 
 Languages: Golang, Node.js, Python, Javascript
 Frameworks: Express, Gin Framework
@@ -11,6 +10,7 @@ API: RESTful API design
 Authentication: JWT
 Version Control: Git, GitHub, GitLab, Atlas
 
+- 🌱 Others:
 Proficient in frontend technologies like HTML and CSS, with several project development experiences.
 
 - 💬 I believe that "The purpose of writing code is to develop software, and software brings value to society."
