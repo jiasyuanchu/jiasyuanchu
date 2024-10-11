@@ -1,10 +1,19 @@
 ### Hi there 👋
 
-- 👉 WELCOME TO VISIT MY PERSONAL WEBSITE: https://side-project-mngt3-mcl626fk2a-de.a.run.app/
-  
-- 🌱 I’m currently building projects with friends with React.js, Javascript, and Express.
-- 🎵 Fun fact: I'm with a 3-octave vocal range.
-- 💬 I believe in "The purpose of writing code is to develop software, and software brings value to society."
+- 🌱About Me
+Backend technologies include:
+
+Languages: Golang, Node.js, Python, Javascript
+Frameworks: Express, Gin Framework
+Database: SQL/NoSQL (MySQL, PostgreSQL, MongoDB, Cassandra, Redis)
+Cloud and Development: Docker, Podman, Heroku, Google Cloud, AWS, Kubernetes, Kafka
+API: RESTful API design
+Authentication: JWT
+Version Control: Git, GitHub, GitLab, Atlas
+
+Proficient in frontend technologies like HTML and CSS, with several project development experiences.
+
+- 💬 I believe that "The purpose of writing code is to develop software, and software brings value to society."
 
 
 <!--
