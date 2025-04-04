@@ -1,26 +1,37 @@
-### Hi there 👋
+# 👋 Hi, I'm Chia-Hsuan Chu
 
-- 🌱 Backend technologies include:
+> A backend engineer with product thinking who transforms business challenges into scalable technical solutions.
 
-Languages: Golang, Node.js, Python, Javascript
-Frameworks: Express, Gin Framework
-Database: SQL/NoSQL (MySQL, PostgreSQL, MongoDB, Cassandra, Redis)
-Cloud and Development: Docker, Podman, Heroku, Google Cloud, AWS, Kubernetes, Kafka
-API: RESTful API design
-Authentication: JWT
-Version Control: Git, GitHub, GitLab, Atlas
+## 💻 Technical Stack
 
-- 🌱 Others:
-Proficient in frontend technologies like HTML and CSS, with several project development experiences.
+### Backend
+- **Languages:** Go (Gin), Node.js, Python, JavaScript (Express)
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Cassandra
+- **Infrastructure:** AWS (SQS/S3), Docker, Kubernetes, Kafka, Google Cloud
+- **API Design:** RESTful API design
+- **Testing:** Unit Testing, CI/CD Integration
 
-- 💬 I believe that "The purpose of writing code is to develop software, and software brings value to society."
+### DevOps & Tools
+- **Version Control:** Git, GitHub, GitLab
+- **Monitoring:** Datadog, Argo
+- **Containerization:** Docker, Podman
 
+## 🏆 Certifications
+- AWS Certified AI Practitioner (2024-2027)
+- AWS Certified AI Practitioner Early Adopter (2024)
+- Akamai Web Performance and Offload Certification (2024)
 
-<!--
-**jiasyuanchu/jiasyuanchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Recent Projects
+- Developed real-time communication SaaS with Go/Gin, handling high-concurrency messaging with PostgreSQL, Redis and AWS SQS/Kafka
+- Built a distributed file processing system with AWS S3 and image proxy services
+- Created custom AI chatbot management APIs with Redis caching
 
+## 🌐 Languages
+- Mandarin Chinese (Native)
+- English (Proficient)
+- German (Basic)
 
-- 🌱 I’m currently learning Javascript.
-- 💬 My believe in "The purpose of writing code is to develop software, and software brings value to society."
-- 📫 How to reach me: jiasyuanchu@gmail.com
-- 🎵 Fun fact: I'm with a 3-octave vocal range.
+## 📫 Connect With Me
+- Email: jiasyuanchu@gmail.com
+
+> "The purpose of writing code is to develop software, and software brings value to society."
